@@ -19,6 +19,7 @@ const Fish = (props) => {
     return (
         <div>
             <h1>All Seafood Options:</h1>
+            <a href="/">Back To All Fish</a>
             {renderFish()}
         </div>
     )

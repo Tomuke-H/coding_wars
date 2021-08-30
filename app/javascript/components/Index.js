@@ -19,7 +19,7 @@ const Index = (props) => {
         <div>
             <h1>Welcome to Tom's Taco emporium!</h1>
             <a href="/sale">See our sale prices</a>
-            <a href="/sort">Sort page</a>
+            <a href="/fish">Seafood only page</a>
             {displayTacos()}
         </div>
     )
